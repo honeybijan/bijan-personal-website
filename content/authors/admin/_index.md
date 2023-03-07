@@ -53,6 +53,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bmazaher@caltech.edu'
+    label: Reach out via email
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/honey_bijan
@@ -68,12 +69,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bijan-mazaheri-422b36111/
+    label: Connect on LinkedIn
   - icon: strava
     icon_pack: fab
     link: https://www.strava.com/athletes/19477841
+    label: Follow me on Strava
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/honey_bijan/
+    label: Follow me on Instagram
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
