@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Caltech'
+    description: 'A researcher on causality, distribution shift, data fusion, and mixture models.'
+    twitter: 'honey_bijan'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-6WLRV0B6LG'
     baidu_tongji: ''
   verification:
     google: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Bijan Mazaheri. Work is liscenced under {license}.'
     license:
       enable: true
       allow_derivatives: false
@@ -64,11 +64,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/honeybijan/<repository>'
     content_dir: content
     branch: main
   avatar:

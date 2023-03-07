@@ -1,47 +1,49 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Bijan Mazaheri
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Bijan
+last_name: Mazaheri
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Computing and Mathematical Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: California Institute of Technology (Caltech)
+    url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. candidate at Caltech. I'm generally interested in mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causality
+  - Distribution/Dataset Shift
+  - Discrete Mixture Models
+  - High level data fusion
+  - Trail and road running
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computing and Mathematical Sciences
+      institution: California Institute of Technology (Caltech)
+      year: 2017-Current
+    - course: Part IB Mathematics (and a selection of Part II)
+      institution: University of Cambridge
+      year: 2016-2017
+    - course: BA in Physics and Computer Science
+      institution: Williams College
+      year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,35 +52,41 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:bmazaher@caltech.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/honey_bijan
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+      header: false
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=DXEdM48AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/honeybijan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/bijan-mazaheri-422b36111/
+  - icon: strava
+    icon_pac: fab
+    link: https://www.strava.com/athletes/19477841
+  - icon: instagram
+    icon_pac: fab
+    link: https://www.instagram.com/honey_bijan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/bijanmazaheri_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bmazaher@caltech.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+---
+I am a Ph.D. student at Caltech working under Shuki Bruck and Leonard Schulman. I'm generally interested in mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality.
 {style="text-align: justify;"}
