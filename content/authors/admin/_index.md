@@ -69,10 +69,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/bijan-mazaheri-422b36111/
   - icon: strava
-    icon_pac: fab
+    icon_pack: fab
     link: https://www.strava.com/athletes/19477841
   - icon: instagram
-    icon_pac: fab
+    icon_pack: fab
     link: https://www.instagram.com/honey_bijan/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
