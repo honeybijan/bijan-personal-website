@@ -91,6 +91,13 @@ email: 'bmazaher@caltech.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+
 ---
 I am a Ph.D. student at Caltech working under Shuki Bruck and Leonard Schulman. I'm generally interested in mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality.
 {style="text-align: justify;"}

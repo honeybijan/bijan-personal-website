@@ -3,6 +3,7 @@ title: Time-Dependent Genomic Signatures for Cancer Classification and Predictio
 summary: 'We process non-coding regions of the genome which contain duplication and mutation signatures. These **mutation profiless** have been shown to be predictive of various forms of cancer.'
 date: '2018-01-01T00:00:00Z'
 weight: 4
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Philosophy
+      title: Research
       text: Machine learning is obsessed with accuracy, but traditional science embraces unexpected results as sources of new insight. My work investigates how errors in carefully engineered ML tasks can teach us about hidden structures in data. I'm generally interested in mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
     design:
       # See Page Builder docs for all section customization options.

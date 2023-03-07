@@ -3,6 +3,7 @@ title: High-Level Data Fusion
 summary: 'We have developed "Expert Graphs" to study consistencies and inconsistencies in partial, but overlapping expertise. As it turns out, this problem is deeply related to issues in voting theory, such as the Cordorcet Paradox.'
 date: '2016-04-27T00:00:00Z'
 weight: 3
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

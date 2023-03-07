@@ -1,0 +1,28 @@
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #70A9A1;
+  background-color: #1f363d;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  margin: 10px 3px 10px 3px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-align: center;
+  transition: background-color 1s ease;
+  transition: border-color 1s ease;
+  transition: color 1s ease;
+  display: inline-block;
+
+  &:hover{
+    background-color: #40798C;
+    color: #CFE0C3;
+  }
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}

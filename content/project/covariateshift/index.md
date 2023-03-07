@@ -3,6 +3,7 @@ title: Distribution Shift and Transportability
 summary: 'Statistical prediction models are often trained on data that is drawn from different probability distributions than their eventual use cases. My work uses insights from causal inference to develop new methods for building machine learning models that are robust to environmental changes.'
 date: '2016-04-27T00:00:00Z'
 weight: 1
+profile: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -7,6 +7,7 @@ summary: Interventional distributions acted on by a universal unobserveed
   to inteverntional distirbutions that were previously considered
   unidentifiable.
 weight: 2
+profile: false
 ---
 ![Reduction Process](reduction_process_horizontal.png)
 Consider the following sequence of discrete mixture models with mixture-source variable $U \in \{0, \ldots, k\}$:
