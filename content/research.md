@@ -16,7 +16,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Interests
+      title: Topics
       filters:
         folders:
           - project
