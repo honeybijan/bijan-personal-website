@@ -1,6 +1,6 @@
 ---
 title: Mixture Models for Causal Inference
-date: 2023-03-01T00:00:00Z
+date: 2023-03-01T00:00:00.000Z
 summary: Interventional distributions acted on by a universal unobserveed
   confounder can be though of as a mixture model. Cardinality assumptions allow
   identification of within-component probability distributions, allowing access
@@ -9,7 +9,7 @@ summary: Interventional distributions acted on by a universal unobserveed
 weight: 2
 ---
 ![Reduction Process](reduction_process_horizontal.png)
-Consider the following sequence of discrete mixture models with mixture-source variable $U \in {0, \ldots, k}$:
+Consider the following sequence of discrete mixture models with mixture-source variable $U \in \{0, \ldots, k\}$:
 
 1. The **$k$-MixIID** problem handles a discrete mixture in which we are allowed to sample a single variables *multiple times* without re-sampling $U$. Alternatively, we can think of this as multiple i.i.d. samples of the within-source (constant $U$) distribution. This is sometimes called the $k$-coin problem because it corresponds to selecting a random biased coin and flipping it multiple times (and then repeating this process with another randomly selected coin).
 2. The **$k$-MixProd** problem handles a discrete mixture with random variables that are independent from one another within each source (when conditioned on $U$). Graphically, this can be modeled as a single vertex $U$ with edges to vertices $\mathbf{X} = X_1, \ldots, X_n$ with no edges within $\mathbf{X}$.
