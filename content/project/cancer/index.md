@@ -23,6 +23,6 @@ slides: ""
 
 We consider two forms of mutations on the genome:
 1. **Duplication**: The formation of adjacent copies of a substring, usuall caused by "slipping" during the replication phase. <br>For example: $T\underline{CG}A \rightarrow T\underline{CGCG}A$
-2. 1. **Point Mutation**: The change of a single base pair. <br>For example: $T\underline{C}GA \rightarrow T\underbrace{G}GA$.
+2. **Point Mutation**: The change of a single base pair. <br>For example: $T\underline{C}GA \rightarrow T\underline{G}GA$.
 
 The genome contains non-coding regions called "repeat regions" with significant duplication activity. When point mutations occur in these regions, those errors are propagated through further duplications. Hence, it is possible to partially construct a duplication and point mutation history of the genome using a single snapshot of these repeat regions. Such a history gives insight into the relative rates of duplication and point mutation on specific locations of the genome. We call this history a **mutation profile** for which we have a patent. We have demonstrated that cancer patients have unique mutation profiles in their non-tumorous DNA, which seems to predict their propensity for specific types of cancer.
