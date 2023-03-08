@@ -53,36 +53,37 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bmazaher@caltech.edu'
-    label: Reach out via email
+    label: Email
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/honey_bijan
-    label: Follow me on Twitter
-    display:
-      header: false
+    label: Twitter
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
+    label: Google Scholar
     link: https://scholar.google.com/citations?user=DXEdM48AAAAJ
   - icon: github
     icon_pack: fab
+    label: Github
     link: https://github.com/honeybijan
   - icon: linkedin
     icon_pack: fab
+    label: LinkeIn
     link: https://www.linkedin.com/in/bijan-mazaheri-422b36111/
-    label: Connect on LinkedIn
   - icon: strava
     icon_pack: fab
     link: https://www.strava.com/athletes/19477841
-    label: Follow me on Strava
+    label: Strava
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/honey_bijan/
-    label: Follow me on Instagram
+    label: Instagram
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
+    label: Curriculum Vitae
     link: uploads/bijanmazaheri_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

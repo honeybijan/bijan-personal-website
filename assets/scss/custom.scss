@@ -1,3 +1,4 @@
+
 a.markdown-btn {
   font-size: inherit;
   font-family: inherit;
@@ -11,9 +12,7 @@ a.markdown-btn {
   cursor: pointer;
   border-radius: 25px;
   text-align: center;
-  transition: background-color 1s ease;
-  transition: border-color 1s ease;
-  transition: color 1s ease;
+  transition: all .2s ease;
   display: inline-block;
 
   &:hover{
@@ -25,4 +24,15 @@ a.markdown-btn {
     background-color: var(--primary-color);
     color: var(--bg-color);
   }
+}
+
+a.nav-link {
+  text-decoration: none;
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+a {
+  transition: all 0s ease;
 }
