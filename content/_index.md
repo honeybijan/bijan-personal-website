@@ -14,7 +14,7 @@ sections:
       text: |2-
         <dif style = "margin: 10px;">
           <p style="text-align: justify;">
-            I am a Ph.D candidate at Caltech working with Shuki Bruck and Leonard Schulman. I'm generally interested in mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality. I'm especially interested in the illumination of hidden structures in data.
+            I am a Ph.D candidate at Caltech working with Shuki Bruck and Leonard Schulman. My interests include mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality. I'm especially interested in techniques for illuminating hidden causal structures.
           </p>
           <div style="text-align: center;">
             {{< button relref="/research" >}}Research{{< /button >}}
