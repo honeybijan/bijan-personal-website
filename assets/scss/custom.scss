@@ -26,9 +26,10 @@ a.markdown-btn {
   }
 }
 
-a.nav-link {
+.nav-link {
   text-decoration: none;
   &:hover{
+    color: #CFE0C3;
     text-decoration: underline;
   }
 }
