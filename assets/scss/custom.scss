@@ -31,6 +31,7 @@ a.nav-link {
   &:hover{
     color: #CFE0C3 !important;
   }
+  transition: all .2s ease !important;
 }
 
 .portrait-title h3 {
@@ -41,6 +42,7 @@ a {
   transition: all 0s ease;
   color: #1f363d;
 }
+
 
 .section-subheading_article-title_mb-0{
   color: #1f363d;
@@ -64,4 +66,13 @@ h1 {
 
 h3 {
   color: #1f363d !important;
+}
+
+.navbar-brand{
+  transition: all .2s ease !important;
+}
+
+
+.ai.ai-cv.big-icon {
+ transition: all 0s ease !important;
 }
