@@ -26,6 +26,14 @@ a.markdown-btn {
   }
 }
 
+a.btn {
+  border-color: #1f363d;
+  &:hover{
+    background-color: #1f363d;
+    color: #CFE0C3;
+  }
+}
+
 a.nav-link {
   text-decoration: none;
   &:hover{
