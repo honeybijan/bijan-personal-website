@@ -26,14 +26,42 @@ a.markdown-btn {
   }
 }
 
-.nav-link {
+a.nav-link {
   text-decoration: none;
   &:hover{
-    color: #CFE0C3;
-    text-decoration: underline;
+    color: #CFE0C3 !important;
   }
+}
+
+.portrait-title h3 {
+  color: #1f363d;
 }
 
 a {
   transition: all 0s ease;
+  color: #1f363d;
+}
+
+.section-subheading_article-title_mb-0{
+  color: #1f363d;
+}
+
+.article-title a{
+  color: #1f363d !important;
+}
+
+.article-style{
+  color: #1f363d;
+}
+
+h2 {
+  color: #1f363d !important;
+}
+
+h1 {
+  color: #1f363d !important;
+}
+
+h3 {
+  color: #1f363d !important;
 }

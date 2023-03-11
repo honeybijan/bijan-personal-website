@@ -4,6 +4,8 @@ name = "my_theme"
 # Is theme light or dark?
 [light]
 
+text = "#1f363d"
+
 # Primary
 primary = "#1f363d"
 secondary = "#1f363d"
