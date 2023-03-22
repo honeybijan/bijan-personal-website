@@ -4,6 +4,7 @@ summary: 'We process non-coding regions of the genome which contain duplication 
 date: '2018-01-01T00:00:00Z'
 weight: 4
 profile: false
+authors:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
