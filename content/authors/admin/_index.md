@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate in Computing and Mathematical Sciences
+role: Ph.D. Candidate in Computing and Mathematical Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D candidate at Caltech. My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
+bio: I am a Ph.D. candidate at Caltech. My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
 
 # Interests to show in About widget
 interests:
