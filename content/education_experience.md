@@ -12,7 +12,7 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Ph.D in Computing and Mathematical Sciences
+        - title: PhD in Computing and Mathematical Sciences
           company: California Institute of Technology (Caltech)
           company_url: ''
           company_logo: edu-caltech
