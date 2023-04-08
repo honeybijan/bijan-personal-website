@@ -62,15 +62,15 @@ sections:
           date_start: '2022-09-15'
           date_end: '2022-02-28'
           description: |2-
-              Paper submission to UAI 2023 on robustness to distribution shift using proxy variables.
+              Paper submission to UAI 2023 on robustness to distribution shift using proxy variables. Worked with Dr. Mila Hardt, Dr. Atalanti Mastakouri, and Dr. Dominik Janzing.
         - title: Machine Learning Intern
-          company: Biodiscovery
+          company: BioDiscovery
           company_url: ''
           company_logo: org-biodiscovery
           location: El Segundo, California
           date_start: '2017-06-01'
           date_end: '2017-09-01'
-          description: Cancer classification using machine learning.
+          description: Cancer classification using machine learning. Worked with Dr. Soheil Shams.
         - title: Research Intern
           company: IBM Research
           company_url: ''
@@ -78,7 +78,7 @@ sections:
           location: Yorktown Heights, New York
           date_start: '2016-06-01'
           date_end: '2016-09-01'
-          description: Factoring sum of products to optimize 2D wire layout.
+          description: Factoring sum of products to optimize 2D wire layout. Worked with Dr. Victor Kravets.
     design:
       columns: '2'
 ---
