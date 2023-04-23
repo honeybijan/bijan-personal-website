@@ -32,4 +32,6 @@ makes obtaining perfectly relevant data difficult. Datagathering mechanisms can 
 distorted training data. Even in the absence of sampling biases, populations, environments, and interventions give rise
 to distribution shifts in their own right.
 
-This issue is fundimentally related to causality: causal relationships are more likely to hold up in new environments than correlational ones. In the past, I have worked on new methods for reweighting data for domain adaptation. Currently, I am interested in developing frameworks to understand distribution shift from a causal perspective, especially in the presence of unobserved concepts (which can span both causes and effects).
+This issue is fundimentally related to causality: causal relationships are more likely to hold up in new environments than correlational ones. In the past, I have worked on new methods for reweighting data for domain adaptation. Currently, I am interested in developing frameworks to understand distribution shift from a causal perspective, especially in the presence of unobserved concepts (which can span both causes and effects). M
+
+Machine learning is obsessed with accuracy, but traditional science embraces unexpected results as sources of new insight. It turns out that errors in carefully engineered ML tasks can help us with the transportability problem.

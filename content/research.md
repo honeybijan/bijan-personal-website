@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Research
-      text: Machine learning is obsessed with accuracy, but traditional science embraces unexpected results as sources of new insight. My work investigates how errors in carefully engineered ML tasks can teach us about hidden structures in data. I'm generally interested in mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
+      text: I am interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans the fields of causality, mixture models, data fusion, and distribution shift. I am especially interested in hidden causal structures and how errors in carefully engineered training tasks can teach us about hidden causal structures.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

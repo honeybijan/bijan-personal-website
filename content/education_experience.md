@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Applied Scientist Intern
-          company: Amazon Science (AWS)
+          company: Amazon Science Causality Lab (AWS)
           company_url: ''
           company_logo: org-amazon
           location: Tübingen, Germany

@@ -100,5 +100,8 @@ cascade:
     list: always
 
 ---
-I am a PhD student at Caltech working under Shuki Bruck and Leonard Schulman. I'm generally interested in mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality.
+I am a computer scientist and mathematician interested in the synthesis and transportability of knowledge
+from and between multiple data sources. My work spans the fields of causality, data fusion, and distribution
+shift. I am currently pursuing a Ph.D. in Computing and Mathematical Sciences at Caltech supported by a
+NSF Graduate Research Fellowship and an Amazon AI4Science Fellowship.
 {style="text-align: justify;"}
