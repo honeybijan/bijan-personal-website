@@ -13,8 +13,8 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: |2-
         <dif style = "margin: 10px;">
-          <p style="text-align: justify;">
-            I am a Ph.D. candidate at Caltech working with Shuki Bruck and Leonard Schulman. My interests include mixture models, high-level data fusion, and stability to distribution shift - usually through the lense of causality. I'm especially interested in techniques for illuminating hidden causal structures. My work is supported by an NSF Graduate Research Fellowship and an Amazon AI4Science Fellowship.
+          <p style="text-align: justify;"> 
+            I am a computer scientist and mathematician interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans the fields of causality, mixture models, data fusion, and stability distribution shift. My work is supported by an NSF Graduate Research Fellowship and an Amazon AI4Science Fellowship.
           </p>
           <div style="text-align: center;">
             {{< button relref="/research" >}}Research{{< /button >}}
