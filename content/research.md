@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Research
-      text: I am interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans the fields of causality, mixture models, data fusion, and distribution shift. I am especially interested in hidden causal structures and how errors in carefully engineered training tasks can teach us about hidden causal structures.
+      text: I am interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans the fields of causality, mixture models, data fusion, and distribution shift. I am especially interested in how errors in carefully engineered training tasks can teach us about hidden causal structures.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
