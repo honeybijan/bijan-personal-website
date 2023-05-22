@@ -1,7 +1,7 @@
 ---
 title: Mixture Models for Causal Inference
 date: 2023-03-01T00:00:00.000Z
-summary: Combining datasets induces universal confounding on a structural equation model (SEM). Controlling for such a counfounder involves treating each dataset separately, defeating the purpose of the combined dataset. Assuming a bound on the number of types of sources turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.
+summary: Combining datasets induces universal confounding on a structural causal model. Controlling for such a counfounder involves treating each dataset separately, defeating the purpose of the combined dataset. Assuming a bound on the number of types of sources turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.
 weight: 2
 profile: false
 ---
