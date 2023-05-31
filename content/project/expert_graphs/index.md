@@ -1,6 +1,6 @@
 ---
-title: High-Level Data Fusion
-summary: ' Most datasets restrict their focus to a subset of topics. We have developed "Expert Graphs" to study consistencies and inconsistencies in partial, but overlapping expertise. As it turns out, this problem is deeply related to issues in voting theory, such as the Cordorcet Paradox.'
+title: Decision Fusion
+summary: ' Many medical settings with privacy concerns deny direct access to data, requiring us to synthesize conclusions at a higher level. This setting is riddled with paradoxes - namely that conclusions are not necessarily transitive. We use “expert graphs” to define a new notion of consistency in networks of conclusions from differing contexts.'
 date: '2016-04-27T00:00:00Z'
 weight: 3
 profile: false
