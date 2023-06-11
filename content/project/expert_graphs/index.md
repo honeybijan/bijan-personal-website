@@ -2,7 +2,7 @@
 title: Decision Fusion
 summary: ' Many medical settings with privacy concerns deny direct access to data, requiring us to synthesize conclusions at a higher level. This setting is riddled with paradoxes - namely that conclusions are not necessarily transitive. We use “expert graphs” to define a new notion of consistency in networks of conclusions from differing contexts.'
 date: '2016-04-27T00:00:00Z'
-weight: 3
+weight: 2
 profile: false
 
 # Optional external URL for project (replaces project detail page).

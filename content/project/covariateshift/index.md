@@ -2,7 +2,7 @@
 title: Distribution Shift and Transportability
 summary: 'Statistical prediction models are often trained on data that is drawn from different probability distributions than their eventual use cases. My work uses insights from causal inference to develop new methods for building machine learning models that are robust to environmental changes.'
 date: '2016-04-27T00:00:00Z'
-weight: 1
+weight: 3
 profile: false
 
 # Optional external URL for project (replaces project detail page).
@@ -28,10 +28,7 @@ assumption reads that the data is drawn from a (training)
 probability distribution $\mathbf{X}, Y$ that is identical to the distribution that will generate its use-cases (target distribution). 
 
 Unfortunately, the dynamic nature of real-world systems
-makes obtaining perfectly relevant data difficult. Datagathering mechanisms can introduce sampling bias, yielding
-distorted training data. Even in the absence of sampling biases, populations, environments, and interventions give rise
-to distribution shifts in their own right.
+makes obtaining perfectly relevant data difficult. Data gathering mechanisms can introduce sampling bias, yielding
+distorted training data. Even in the absence of sampling biases, populations, environments, and interventions give rise to distribution shifts in their own right.
 
-This issue is fundimentally related to causality: causal relationships are more likely to hold up in new environments than spurrious correlations. In the past, I have worked on new methods for reweighting data for domain adaptation. Currently, I am interested in developing frameworks to understand distribution shift from a causal perspective, especially with respec to unobserved concepts and their proxies.
-
-Machine learning is obsessed with accuracy, but traditional science embraces unexpected results as sources of new insight. It turns out that errors in carefully engineered ML tasks can help us split information from proxies relative to the information's causal roles - which can help with transportability.
+Fusing data sources also fuses the support on which our models are expected to perform well, but we are still limited to the situations we have seen. If we want generalization outside of our gathered data, we need to build models that are invariant to the mechanisms that can modify the distribution. Physicists have successfully determined ``universal'' laws using extremely precise measurements of simple systems. The setting becomes challenging when our data is limited to proxies of the underlying components of complex systems, as is often the case with medical data.

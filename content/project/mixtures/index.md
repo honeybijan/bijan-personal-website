@@ -1,8 +1,8 @@
 ---
-title: Mixture Models for Causal Inference
+title: Confounder Identification
 date: 2023-03-01T00:00:00.000Z
 summary: Combining multiple populations or contexts induces universal confounding on a structural causal model (SCM). Assuming a bound on the cardinality of a discrete universal confounder turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.
-weight: 2
+weight: 1
 profile: false
 ---
 ![Reduction Process](reduction_process_horizontal.png)
