@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.biorxiv.org/content/10.1101/517839v2.full.pdf
+url_pdf: https://www.biorxiv.org/content/10.1101/517839
 url_source: #https://arxiv.org/abs/2007.08101
 
 # Featured image

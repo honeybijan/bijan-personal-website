@@ -36,7 +36,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/pdf/2007.08101.pdf
+url_pdf: https://arxiv.org/abs/2007.08101
 url_source: #https://arxiv.org/abs/2007.08101
 
 # Featured image
