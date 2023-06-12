@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Research
-      text: I am interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans the fields of causality, mixture models, data fusion, and distribution shift. I am especially interested in how errors in carefully engineered training tasks can teach us about hidden causal structures.
+      text: Confounding emerges whenever data spans multiple populations, environments, or laboratories -- an unavoidable setting in large-scale datasets. The search for new signals in this data can awaken previously innocuous confounding effects, even further exacerbated by the unprecedented power of ML. The novelty of these phenomena conceal them from the intuitions of domain knowledge, making them silent killers of scientific rigor. My work centers around evaluating when data fusion is safe, deconfounding results when it is not safe, and the paradoxes that arise when aggregating conclusions from non-fused data sources.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

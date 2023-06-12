@@ -1,6 +1,6 @@
 ---
 title: Decision Fusion
-summary: ' Many medical settings with privacy concerns deny direct access to data, requiring us to synthesize conclusions at a higher level. This setting is riddled with paradoxes - namely that conclusions are not necessarily transitive. We use “expert graphs” to define a new notion of consistency in networks of conclusions from differing contexts.'
+summary: ' It is not unusual for studies and experts to disagree with each other. Such disagreement is often driven by differing contexts rather than incorrect deductions or bad data. One way to investigate contradiction is to use merged data to build a larger picture. Unfortunately, many private medical settings deny direct access to data. Through decision fusion, I seek to understand when results from different settings are in conflict and what these disagreements can indicate about the underlying system.'
 date: '2016-04-27T00:00:00Z'
 weight: 2
 profile: false

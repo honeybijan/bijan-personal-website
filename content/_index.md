@@ -22,5 +22,8 @@ sections:
             {{< button relref="/education_experience" >}}Education/Work{{< /button >}}
             {{< button relref="/running" >}}Running{{< /button >}}
           </div>
+          <div style="text-align: center;">
+            {{< figure src="ResearchGraphic.jpg" id="ResearchGraphic" >}}
+          </div>
         </dif>
 ---
