@@ -23,7 +23,7 @@ sections:
             {{< button relref="/running" >}}Running{{< /button >}}
           </div>
           <div style="text-align: center;">
-            {{< figure src="ResearchGraphic.jpg" id="ResearchGraphic" >}}
+            {{< figure src="ResearchGraphic.png" id="ResearchGraphic" >}}
           </div>
         </dif>
 ---
