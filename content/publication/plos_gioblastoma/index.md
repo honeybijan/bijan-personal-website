@@ -19,7 +19,7 @@ publishDate: "2021-09-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "PLoS ONE 16(9)"
+publication: "PLOS ONE 16(9)"
 publication_short: ""
 
 abstract: The current approach for the detection of cancer is based on identifying genetic mutations typical to tumor cells. This approach is effective only when cancer has already emerged, however, it might be in a stage too advanced for effective treatment. Cancer is caused by the continuous accumulation of mutations; is it possible to measure the time-dependent information of mutation accumulation and predict the emergence of cancer? We hypothesize that the mutation history derived from the tandem repeat regions in blood-derived DNA carries information about the accumulation of the cancer driver mutations in other tissues. To validate our hypothesis, we computed the mutation histories from the tandem repeat regions in blood-derived exomic DNA of 3874 TCGA patients with different cancer types and found a statistically significant signal with specificity ranging from 66% to 93% differentiating Glioblastoma patients from other cancer patients. Our approach and findings offer a new direction for future cancer prediction and early cancer detection based on information derived from blood-derived DNA.
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256831&type=printable
+url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256831
 url_code: ''
 url_dataset: ''
 url_poster: ''
