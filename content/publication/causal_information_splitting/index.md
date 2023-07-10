@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2305.05832'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'UAI2023poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: #'https://proceedings.mlr.press/v134/gordon21a.html'
