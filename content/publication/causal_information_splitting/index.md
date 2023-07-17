@@ -51,7 +51,7 @@ url_poster: 'UAI2023poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: #'https://proceedings.mlr.press/v134/gordon21a.html'
-url_video: ''
+url_video: 'https://youtu.be/c7FNR7vwRo8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
