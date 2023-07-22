@@ -1,8 +1,15 @@
-@inproceedings{
-mazaheri2023causal,
-title={Causal Information Splitting: Engineering Proxy Features for Robustness to Distribution Shifts},
-author={Bijan Mazaheri and Atalanti A. Mastakouri and Dominik Janzing and Michaela Hardt},
-booktitle={The 39th Conference on Uncertainty in Artificial Intelligence},
-year={2023},
-url={https://openreview.net/forum?id=qvGimdNShM}
+@InProceedings{pmlr-v216-mazaheri23a,
+  title = 	 {Causal information splitting: Engineering proxy features for robustness to distribution shifts},
+  author =       {Mazaheri, Bijan and Mastakouri, Atalanti and Janzing, Dominik and Hardt, Michaela},
+  booktitle = 	 {Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {1401--1411},
+  year = 	 {2023},
+  editor = 	 {Evans, Robin J. and Shpitser, Ilya},
+  volume = 	 {216},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {31 Jul--04 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v216/mazaheri23a/mazaheri23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v216/mazaheri23a.html},
+  abstract = 	 {Statistical prediction models are often trained on data that is drawn from different probability distributions than their eventual use cases. One approach to proactively prepare for these shifts harnesses the intuition that causal mechanisms should remain invariant between environments. Here we focus on a challenging setting in which the causal and anticausal variables of the target are unobserved. Leaning on information theory, we develop feature selection and engineering techniques for the observed downstream variables that act as proxies. We identify proxies that help to build stable models and moreover utilize auxiliary training tasks to extract stability-enhancing information from proxies. We demonstrate the effectiveness of our techniques on synthetic and real data.}
 }
