@@ -1,7 +1,7 @@
 ---
 title: Confounder Identification
 date: 2023-03-01T00:00:00.000Z
-summary: 'Phantom relationships that emerge from the combination of multiple data sources can then be taken as direct information about the confounding influence. In this sense, the problem is also the solution: while confounding contaminates causal relationships, it also contains the information needed to identify and remove its own impact. Assuming a bound on the cardinality of a discrete universal confounder turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
+summary: 'Phantom relationships often emerge from the combination of multiple data sources. While confounding contaminates causal relationships, it also contains the information needed to identify and remove its own impact. Assuming a bound on the cardinality of a discrete universal confounder turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
 weight: 1
 profile: false
 ---
