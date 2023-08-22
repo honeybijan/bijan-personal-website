@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bijan Mazaheri
+title: Bijan Mazaheri, Ph.D.
 
 # Full name (for SEO)
 first_name: Bijan
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Computing and Mathematical Sciences
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate at Caltech. My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
+bio: My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
 
 # Interests to show in About widget
 interests:

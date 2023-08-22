@@ -18,9 +18,9 @@ sections:
           company_logo: edu-caltech
           location: Pasadena, CA
           date_start: '2017-09-01'
-          date_end: ''
+          date_end: '2023-08-15'
           description: |2-
-              Working under advisors Shuki Bruck and Leonard Schulman. 
+              Worked under advisors Shuki Bruck and Leonard Schulman. 
               Funded by an NSF Graduate Research Fellowship and an Amazon AI4Science fellowship.
         - title: Herchel Smith Fellowship
           company: University of Cambridge
