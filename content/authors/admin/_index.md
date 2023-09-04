@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bijan Mazaheri, Ph.D.
+title: Bijan Mazaheri
 
 # Full name (for SEO)
 first_name: Bijan
