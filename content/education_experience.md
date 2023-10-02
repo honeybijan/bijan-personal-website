@@ -7,43 +7,6 @@ type: landing
 sections:
   - block: experience
     content:
-      title: Education
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      items:
-        - title: PhD in Computing and Mathematical Sciences
-          company: California Institute of Technology (Caltech)
-          company_url: ''
-          company_logo: edu-caltech
-          location: Pasadena, CA
-          date_start: '2017-09-01'
-          date_end: '2023-08-15'
-          description: |2-
-              Worked under advisors Shuki Bruck and Leonard Schulman. 
-              Funded by an NSF Graduate Research Fellowship and an Amazon AI4Science fellowship.
-        - title: Herchel Smith Fellowship
-          company: University of Cambridge
-          company_url: ''
-          company_logo: edu-cambridge
-          location: Cambridge, UK
-          date_start: '2016-09-01'
-          date_end: '2017-06-01'
-          description: Part IB Maths with supplemental Part IA and II classes.
-        - title: B.A. in Physics and Computer Science
-          company: Williams College
-          company_url: ''
-          company_logo: edu-williams
-          location: Williamstown, MA
-          date_start: '2012-09-01'
-          date_end: '2016-06-01'
-          description: |2-
-              Highest Honors in Physics, Magna Cum Laude, Phi Beta Kappa, Sigma Xi. 
-              Captain of cross country and track teams.
-    design:
-      columns: '2'
-  - block: experience
-    content:
       title: Work Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -54,6 +17,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Eric and Wendy Schmidt Postdoctoral Fellow
+          company: Broad Intitute of MIT and Harvard
+          company_url: 'https://www.ericandwendyschmidtcenter.org/'
+          company_logo: org-broad
+          location: Cambridge, Massachusetts
+          date_start: '2023-10-01'
+          description: |2-
+              Working to solve causality-related problems in biological data.
         - title: Applied Scientist Intern
           company: Amazon Science Causality Lab (AWS)
           company_url: ''
@@ -79,6 +50,44 @@ sections:
           date_start: '2016-06-01'
           date_end: '2016-09-01'
           description: Factoring sum of products to optimize 2D wire layout. Worked with Dr. Victor Kravets.
+    design:
+      columns: '2'
+
+  - block: experience
+    content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      items:
+        - title: PhD in Computing and Mathematical Sciences
+          company: California Institute of Technology (Caltech)
+          company_url: ''
+          company_logo: edu-caltech
+          location: Pasadena, CA
+          date_start: '2017-09-01'
+          date_end: '2023-08-15'
+          description: |2-
+              Worked with advisors Shuki Bruck and Leonard Schulman. 
+              Funded by an NSF Graduate Research Fellowship and an Amazon AI4Science fellowship.
+        - title: Herchel Smith Fellowship
+          company: University of Cambridge
+          company_url: ''
+          company_logo: edu-cambridge
+          location: Cambridge, UK
+          date_start: '2016-09-01'
+          date_end: '2017-06-01'
+          description: Part IB Maths with supplemental Part IA and II classes.
+        - title: B.A. in Physics and Computer Science
+          company: Williams College
+          company_url: ''
+          company_logo: edu-williams
+          location: Williamstown, MA
+          date_start: '2012-09-01'
+          date_end: '2016-06-01'
+          description: |2-
+              Highest Honors in Physics, Magna Cum Laude, Phi Beta Kappa, Sigma Xi. 
+              Captain of cross country and track teams.
     design:
       columns: '2'
 ---

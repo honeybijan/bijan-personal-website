@@ -14,12 +14,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: California Institute of Technology (Caltech)
-    url: https://www.caltech.edu/
+  - name: 
+        Eric and Wendy Schmidt Center
+    url: https://www.ericandwendyschmidtcenter.org/
+  - name: 
+        Broad Institute of MIT and Harvard
+    url: https://www.broadinstitute.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
@@ -37,7 +41,7 @@ education:
   courses:
     - course: PhD in Computing and Mathematical Sciences
       institution: California Institute of Technology (Caltech)
-      year: 2017-Current
+      year: 2017-2023
     - course: Part IB Mathematics (and a selection of Part II)
       institution: University of Cambridge
       year: 2016-2017
@@ -102,6 +106,5 @@ cascade:
 ---
 I am a computer scientist and mathematician interested in the synthesis and transportability of knowledge
 from and between multiple data sources. My work spans the fields of causality, data fusion, and distribution
-shift. I am currently pursuing a Ph.D. in Computing and Mathematical Sciences at Caltech supported by a
-NSF Graduate Research Fellowship and an Amazon AI4Science Fellowship.
+shift.
 {style="text-align: justify;"}

@@ -14,7 +14,7 @@ sections:
       text: |2-
         <dif style = "margin: 10px;">
           <p style="text-align: justify;"> 
-            I am a computer scientist and mathematician interested in the synthesis and transportation of knowledge from and between multiple settings. My work spans causality, mixture models, decision fusion, and distribution shift. I am supported by an NSF Graduate Research Fellowship and an Amazon AI4Science Fellowship.
+            I am a computer scientist and mathematician interested in the synthesis and transportation of knowledge from and between multiple settings. I study topics related to causality, distribution shift, decision fusion, and mixture models. I am working to apply these ideas to pressing computational challenges in the biological and health sciences.
           </p>
           <div style="text-align: center;">
             {{< button relref="/research" >}}Research{{< /button >}}
