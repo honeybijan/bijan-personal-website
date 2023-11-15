@@ -14,6 +14,7 @@ I compete in distances ranging from 5km to 50km on track, roads, and trails. I q
 - **3 km**: 8:14 (NEICAAA Indoor Championships, BU)
 
 ## Career Highlights
+- 20th at the 2023 World 50km Championships
 - 6th at 2022 Firenze Marathon (Silver Label) - 2:17:07 (OTQ)
 - Winner of the 2022 USA 50km National Championship
 - 4th OA/1st American at 2021 LA Marathon - 2:21:42
@@ -21,7 +22,7 @@ I compete in distances ranging from 5km to 50km on track, roads, and trails. I q
 - 28th at the 2019 Chicago Marathon (Major) - 2:15:26 (OTQ)
 - 9th/1st American at 2019 Ottawa Marathon (Gold Label) - 2:22:10
 - 7th at 2017 British University Cross Country Championships
-- 8-time DIII All-American in Cross Country and Track (3k, 5k, 10k).
+- 8-time DIII All-American in Cross Country and Track (3k, 5k, 10k)
 - Williams College school records in the 10k, 5k, and 3k.
 
 ## Media Features

@@ -17,7 +17,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Eric and Wendy Schmidt Postdoctoral Fellow
+        - title: Eric and Wendy Schmidt Postdoctoral Associate
           company: Broad Intitute of MIT and Harvard
           company_url: 'https://www.ericandwendyschmidtcenter.org/'
           company_logo: org-broad
