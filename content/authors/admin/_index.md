@@ -56,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bmazaher@caltech.edu'
+    link: 'mailto:bmazaher@broadinstitute.org'
     label: Email
   - icon: twitter
     icon_pack: fab

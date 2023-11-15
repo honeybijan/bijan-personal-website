@@ -1,7 +1,7 @@
 ---
 title: Distribution Shift and Conterfactual Features
-summary: 'Features often contain a mixture of ``good'' and ``bad'' information. From a fairness standpoint, SAT scores contain information about both inherent academic ability, and also access to tutoring resources. From a domain adaptation standpoint, some information may have stable and reliable relationships with the prediction label, while other relationships break down. My work uses insights from causal inference to determine data-representations that sort between the different components of information that are hidden in these ambiguous features.'
-date: '2016-04-27T00:00:00Z'
+summary: 'Features often contain a mixture of "good" and "bad" information. From a fairness standpoint, SAT scores contain information about both inherent academic ability, and also access to tutoring resources. From a domain adaptation standpoint, some information may have stable and reliable relationships with the prediction label, while other relationships break down. My work uses insights from causal inference to determine data-representations that sort between the different components of information that are hidden in these ambiguous features.'
+date: '2020-04-27T00:00:00Z'
 weight: 3
 profile: false
 

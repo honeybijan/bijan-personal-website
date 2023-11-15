@@ -1,7 +1,7 @@
 ---
 title: Confounder Identification
 date: 2023-03-01T00:00:00.000Z
-summary: 'Phantom relationships often emerge from the combination of multiple data sources. While confounding contaminates causal relationships, it also contains the information needed to identify and remove its own impact. Assuming a bound on the cardinality of a discrete universal confounder turns the problem into a mixture model, allowing identification of within-source probability distributions. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
+summary: 'All unsupervised techniques rely on distributional assumptions in order to recover components or clusters. Discrete data poses an interesting challenge in that categorical distributions are inherently non-parametric, prohibiting the use of parametric assumptions. One alternative approach, which I have pioneered, is the use of the use of \emph{causal structures} to help separate unconfounded components in data. Such an approach is natural, as confounded systems are an inherently causal problem. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
 weight: 1
 profile: false
 ---
@@ -14,4 +14,4 @@ Consider the following discrete mixture models with mixture-source variable $U \
 
 The **$k$-MixBND** problem is fundamental to causal inference, where $U$ models an unobserved confounding effect of multiple populations, obscuring the causal relationships in the observable DAG $\mathcal{G}$. By solving the mixture problem and recovering the joint probability distribution on $\mathbf{V}, U$, graphically unidentifiable causal relationships become identifiable. We have developed the first algorithm to learn mixtures of non-empty DAGs. The algorithm involves a two-step reduction from $k$-MixIID $\rightarrow$ $k$-MixProd $\rightarrow$ $k$-MixBND.
 
-We have contributed to complexity improvements on all three steps of this reduction.
+We have contributed to complexity improvements on all three steps of this reduction. We have also contributed the first known algorithm for identifying causal structure in the mixture setting, which we refer to as "latent class confounding."
