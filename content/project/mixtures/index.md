@@ -1,7 +1,7 @@
 ---
 title: Confounder Identification
 date: 2023-03-01T00:00:00.000Z
-summary: 'All unsupervised techniques rely on distributional assumptions in order to recover components or clusters. Discrete data poses an interesting challenge in that categorical distributions are inherently non-parametric, prohibiting the use of parametric assumptions. One alternative approach, which I have pioneered, is the use of the use of \emph{causal structures} to help separate unconfounded components in data. Such an approach is natural, as confounded systems are an inherently causal problem. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
+summary: 'All unsupervised techniques rely on distributional assumptions in order to recover components or clusters. Discrete data poses an interesting challenge in that categorical distributions are inherently non-parametric, prohibiting the use of parametric assumptions. One alternative approach, which I have pioneered, is the use of the use of *causal structures* to help separate unconfounded components in data. Such an approach is natural, as confounded systems are an inherently causal problem. This perspective expands the notion of causal identifiability, as many graphically unidentifiable relationships can be identified.'
 weight: 1
 profile: false
 ---
