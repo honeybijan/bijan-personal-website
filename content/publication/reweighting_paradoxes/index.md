@@ -1,5 +1,5 @@
 ---
-title: "Distribution Re-weighting and Voting Paradoxes"
+title: "Omitted Labels in Causality: A Study of Paradoxes"
 authors:
 - Admin
 - Siddharth Jain

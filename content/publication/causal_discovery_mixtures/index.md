@@ -1,5 +1,5 @@
 ---
-title: "Causal Discovery under Latent Class Confounding"
+title: "Discrete Nonparametric Causal Discovery under Latent Class Confounding"
 authors:
 - Admin
 - Spencer Gordon
