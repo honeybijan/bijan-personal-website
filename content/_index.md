@@ -14,7 +14,10 @@ sections:
       text: |2-
         <dif style = "margin: 10px;">
           <p style="text-align: justify;"> 
-            I am a computer scientist and mathematician interested in the synthesis and transportation of knowledge from and between multiple settings. I study topics related to causality, distribution shift, decision fusion, and mixture models. I am working to apply these ideas to pressing computational challenges in the biological and health sciences.
+            I am a computer scientist and mathematician interested in the task of combining data and knowledge from multiple places, topics, and modalities. I study topics related to causality, distribution shift, decision fusion, and mixture models. I am working to apply these ideas to new computational challenges in the biological and health sciences. Before starting at the Broad, I was an NSF Graduate Research Fellow and Amazon AI4Science Fellow at Caltech, where I completed a PhD in Computing and Mathematical Sciences under the supervision of Shuki Bruck and Leonard Schulman.
+          </p>
+          <p style="text-align: justify;"> 
+            I am also an internationally competitive distance runner and enjoy applying my research to sports analytics. I am the developer of <a href="https://www.lacctic.com/">LACCTiC</a>, which is used by coaches and athletes across the NCAA to compare performances over varying conditions and terrain.
           </p>
           <div style="text-align: center;">
             {{< button relref="/research" >}}Research{{< /button >}}

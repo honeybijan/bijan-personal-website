@@ -104,7 +104,7 @@ cascade:
     list: always
 
 ---
-I am a computer scientist and mathematician interested in the synthesis and transportability of knowledge
-from and between multiple data sources. My work spans the fields of causality, data fusion, and distribution
+I am a computer scientist and mathematician interested in the synthesis of knowledge
+from multiple places, topics, and modalities. My work spans the fields of causality, data fusion, and distribution
 shift.
 {style="text-align: justify;"}

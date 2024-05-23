@@ -1,5 +1,5 @@
 ---
-title: "Discrete Nonparametric Causal Discovery under Latent Class Confounding"
+title: "Causal Discovery under Latent Class Confounding"
 authors:
 - Admin
 - Spencer Gordon
@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Directed acyclic graphs are used to model the causal structure of a system. ``Causal discovery'' describes the problem of learning this structure from data. When data is an aggregate from multiple sources (populations or environments), global confounding obscures conditional independence properties that drive many causal discovery algorithms. For this reason, existing causal discovery algorithms are not suitable for the multiple-source setting. We demonstrate that, if the confounding is of bounded cardinality (i.e. the data comes from a limited number of sources), causal discovery can still be achieved. The feasibility of this problem is governed by a trade-off between the cardinality of the global confounder, the cardinalities of the observed variables, and the sparsity of the causal structure.
+abstract: An acyclic causal structure can be described using a directed acyclic graph (DAG) with arrows indicating causation. The task of learning this structure from data is known as "causal discovery." Diverse populations or changing environments can sometimes give rise to heterogeneous data. This heterogeneity can be thought of as a mixture model with multiple "sources," each exerting their own distinct signature on the observed variables. From this perspective, the source is a latent common cause for every observed variable. While some methods for causal discovery are able to work around unobserved confounding in special cases, the only known ways to deal with a global confounder (such as a latent class) involve parametric assumptions.  Focusing on discrete observables, we demonstrate that globally confounded causal structures can still be identifiable without parametric assumptions, so long as the number of latent classes remains small relative to the size and sparsity of the underlying DAG.
 # Summary. An optional shortened abstract.
 summary: The first known algorithm for causal discovery under latent class counfounding.
 

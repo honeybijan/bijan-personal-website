@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Research
-      text: Confounding emerges whenever data spans multiple populations, environments, or laboratories -- an unavoidable setting in large-scale datasets. The search for new signals in this data can awaken previously innocuous confounding effects, even further exacerbated by the unprecedented power of ML. The novelty of these phenomena conceal them from the intuitions of domain knowledge, making them silent killers of scientific rigor. My work centers around evaluating when data fusion is safe, deconfounding results when it is not safe, and the paradoxes that arise when aggregating conclusions from non-fused data sources.
+      text: The age of big data promises to revolutionize science and engineering, but it suffers from two critical complications. First, big data introduces heterogeneity from diverse populations that can obscure causality within spurious correlations. Second, rich data gives only a fine-grained picture of the latent abstractions we use to understand the world. I study these issues through the framework of causal inference, which seeks to replace controlled experiments with mathematics on observational data. I'm especially interested in using causal mathematics to answer questions that cannot be addressed by experimentation alone.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

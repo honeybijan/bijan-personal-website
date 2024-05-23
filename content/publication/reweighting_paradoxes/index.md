@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We explore a specific type of distribution shift called domain expertise, in which training is limited to a subset of all possible labels. This setting is common among specialized human experts, or specific focused studies. We show how the standard approach to distribution shift, which involves re-weighting data, can result in paradoxical disagreements among differing domain expertise. We also demonstrate how standard adjustments for causal inference lead to the same paradox. We prove that the characteristics of these paradoxes exactly mimic another set of paradoxes which arise among sets of voter preferences.
+abstract: We explore what we call "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is common among specialized human experts or specific focused studies. We lean on well-studied paradoxes (Simpson's and Condorcet) to illustrate the more general difficulties of causal inference in omitted label contexts. Contrary to the fundamental principles on which much of causal inference is built, we show that "correct" adjustments sometimes require non-exchangeable treatment and control groups. These pitfalls lead us to the study networks of conclusions drawn from different contexts and the structures the form, proving an interesting connection between these networks and social choice theory.
 
 # Summary. An optional shortened abstract.
 summary: Domain expertise bias creates paradoxes in causality and covariate shift methods. We show these are the same as paradoxes in social choice theory.
