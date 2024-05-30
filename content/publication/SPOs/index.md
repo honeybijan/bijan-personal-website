@@ -26,8 +26,7 @@ abstract: "Modern data analysis frequently relies on the use of large datasets, 
 # Summary. An optional shortened abstract.
 summary: A new technique for causal inference that can sometimes learn more than a randomized controlled trial.
 
-tags:
-  - Mixture Models
+tags: ['mixtures']
 
 featured: true
 
