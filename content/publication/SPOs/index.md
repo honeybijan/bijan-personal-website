@@ -36,13 +36,13 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: 'https://arxiv.org/abs/2405.19225'
-url_code: ''
+url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'presentations/ocis'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?app=desktop&si=rckWo1PphQC5QqoC&v=hLr7KmUUvJ4&feature=youtu.be'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
