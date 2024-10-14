@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Potential Outcomes for Mixtures of Treatment Effects"
+title: "Synthetic Potential Outcomes and Causal Mixture Identifiability"
 authors:
 - Admin
 - Chandler Squires
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Modern data analysis frequently relies on the use of large datasets, often constructed as amalgamations of diverse populations or data-sources. Heterogeneity across these smaller datasets constitutes two major challenges for causal inference; (1) the source of each sample can introduce latent confounding between treatment and effect, and (2) diverse populations may respond differently to the same treatment, giving rise to heterogeneous treatment effects (HTEs). The issues of latent confounding and HTEs have been studied separately but not in conjunction. In particular, previous works only report the conditional average treatment effect (CATE) among similar individuals (with respect to the measured covariates). CATEs cannot resolve mixtures of potential treatment effects driven by latent heterogeneity, which we call mixtures of treatment effects (MTEs). Inspired by method of moment approaches to mixture models, we propose "synthetic potential outcomes" (SPOs). Our new approach deconfounds heterogeneity while also guaranteeing the identifiability of MTEs. This technique bypasses full recovery of a mixture, which significantly simplifies its requirements for identifiability. We demonstrate the efficacy of SPOs on synthetic data.
+abstract: A mixture model consists of a latent class that exerts a discrete signal on the observed data. Uncovering these latent classes is fundamental to unsupervised learning. In this paper, we consider the problem of recovering latent classes defined with respect to causal responses. We allow overlapping support in the distributions of these classes, meaning individuals cannot be clustered into groups with a similar response. Instead, we build on a setting from proximal causal inference to develop a method of moments approach to synthetically sample potential outcome distributions. This approach is the first known identifiability result for what we call Mixtures of Treatment Effects (MTEs). More broadly, we show how MTEs fit into a hierarchy of causal identifiability that unifies a number of perspectives on latent class confounding.
 
 # Summary. An optional shortened abstract.
 summary: A new technique for causal inference that can sometimes learn more than a randomized controlled trial.
