@@ -40,7 +40,7 @@ url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'presentations/ocis'
+url_slides: 'presentations/SPO_BU'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?app=desktop&si=rckWo1PphQC5QqoC&v=hLr7KmUUvJ4&feature=youtu.be'
 
