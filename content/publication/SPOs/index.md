@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: A mixture model consists of a latent class that exerts a discrete signal on the observed data. Uncovering these latent classes is fundamental to unsupervised learning. In this paper, we consider the problem of recovering latent classes defined with respect to causal responses. We allow overlapping support in the distributions of these classes, meaning individuals cannot be clustered into groups with a similar response. Instead, we build on a setting from proximal causal inference to develop a method of moments approach to synthetically sample potential outcome distributions. This approach is the first known identifiability result for what we call Mixtures of Treatment Effects (MTEs). More broadly, we show how MTEs fit into a hierarchy of causal identifiability that unifies a number of perspectives on latent class confounding.
+abstract: Heterogeneous data from multiple populations, sub-groups, or sources is often represented as a "mixture model” with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at multiple levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This definition is distinct from previous notions, such as similar covariate values (e.g. clustering) or similar correlations between covariates (e.g. Gaussian mixture models). To solve the problem, we “synthetically sample” from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these "causal mixtures" fit in with more classical notions, we develop a hierarchy of mixture identifiability.
 
 # Summary. An optional shortened abstract.
 summary: A new technique for causal inference that can sometimes learn more than a randomized controlled trial.
@@ -40,7 +40,7 @@ url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'presentations/SPO_BU'
+url_slides: 'presentations/spo_bu3'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?app=desktop&si=rckWo1PphQC5QqoC&v=hLr7KmUUvJ4&feature=youtu.be'
 
