@@ -22,7 +22,7 @@ organizations:
         Assistant Professor - Dartmouth Engineering
     url: https://engineering.dartmouth.edu/
   - name: 
-        Visiting Researcher - Eric and Wendy Schmidt Center
+        Visiting Researcher - Broad Institute of MIT and Harvard
     url: https://www.ericandwendyschmidtcenter.org/
 
 # Short bio (displayed in user profile at end of posts)
