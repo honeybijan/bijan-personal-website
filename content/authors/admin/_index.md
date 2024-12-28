@@ -14,10 +14,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: 
+        Thayer School of Engineering at Dartmouth
+    url: https://engineering.dartmouth.edu/
   - name: 
         Eric and Wendy Schmidt Center
     url: https://www.ericandwendyschmidtcenter.org/
@@ -56,7 +59,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bmazaher@broadinstitute.org'
+    link: 'mailto:bijan.h.mazaheri@dartmouth.edu'
     label: Email
   - icon: twitter
     icon_pack: fab
@@ -91,7 +94,7 @@ social:
     link: uploads/bijanmazaheri_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'bmazaher@caltech.edu'
+email: 'bijan.h.mazaheri@dartmouth.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
