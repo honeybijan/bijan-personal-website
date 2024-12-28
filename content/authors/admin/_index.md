@@ -19,10 +19,10 @@ role:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 
-        Assistant Professor @ Dartmouth Engineering
+        Assistant Professor - Dartmouth Engineering
     url: https://engineering.dartmouth.edu/
   - name: 
-        Visiting Researcher @ Eric and Wendy Schmidt Center
+        Visiting Researcher - Eric and Wendy Schmidt Center
     url: https://www.ericandwendyschmidtcenter.org/
 
 # Short bio (displayed in user profile at end of posts)
