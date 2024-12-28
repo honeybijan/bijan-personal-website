@@ -14,19 +14,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 
-        Thayer School of Engineering at Dartmouth
+        Assistant Professor @ Dartmouth Engineering
     url: https://engineering.dartmouth.edu/
   - name: 
-        Eric and Wendy Schmidt Center
+        Visiting Researcher @ Eric and Wendy Schmidt Center
     url: https://www.ericandwendyschmidtcenter.org/
-  - name: 
-        Broad Institute of MIT and Harvard
-    url: https://www.broadinstitute.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include mixture models, high level data fusion, and stability to distribution shift - usually through the lense of causality.
