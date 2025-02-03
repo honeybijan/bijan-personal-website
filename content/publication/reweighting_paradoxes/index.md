@@ -19,8 +19,8 @@ publishDate: "2023-11-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "To appear in the *4th Conference on Causal Learning and Reasoning (CLeaR*"
+publication_short: "To appear in *CLeaR 2025*"
 
 abstract: We explore what we call "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is common among specialized human experts or specific focused studies. We lean on well-studied paradoxes (Simpson's and Condorcet) to illustrate the more general difficulties of causal inference in omitted label contexts. Contrary to the fundamental principles on which much of causal inference is built, we show that "correct" adjustments sometimes require non-exchangeable treatment and control groups. These pitfalls lead us to the study networks of conclusions drawn from different contexts and the structures the form, proving an interesting connection between these networks and social choice theory.
 
