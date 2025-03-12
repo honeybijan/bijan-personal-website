@@ -5,7 +5,7 @@ authors:
 - Chandler Squires
 - Caroline Uhler
 author_notes:
-date: "2024-05-28T00:00:00Z"
+date: "2025-06-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +21,10 @@ publication_types: ["3"]
 publication: "To appear in the *28th International Conference on Artificial Intelligence and Statistics (AISTATS)*"
 publication_short: "To appear in *AISTATS 2025*"
 
-abstract: Heterogeneous data from multiple populations, sub-groups, or sources is often represented as a "mixture model” with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at multiple levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This definition is distinct from previous notions, such as similar covariate values (e.g. clustering) or similar correlations between covariates (e.g. Gaussian mixture models). To solve the problem, we “synthetically sample” from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these "causal mixtures" fit in with more classical notions, we develop a hierarchy of mixture identifiability.
+abstract: Heterogeneous data from multiple populations, sub-groups, or sources can be represented as a "mixture model" with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at different levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This is distinct from previous notions, such as grouping by similar covariate values (e.g., clustering) or similar correlations between covariates (e.g., Gaussian mixture models). To solve the problem, we "synthetically sample" from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these "causal mixtures" fit in with more classical notions, we develop a hierarchy of mixture identifiability.
 
 # Summary. An optional shortened abstract.
-summary: A new technique for causal inference that can sometimes learn more than a randomized controlled trial.
+summary: We show how to find mixture components relative to a causal response.
 
 tags:
   -Synthetic Potential Outcomes

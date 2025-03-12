@@ -6,7 +6,7 @@ authors:
 - Matthew Cook
 - Jehoshua Bruck
 author_notes:
-date: "2023-11-14T00:00:00Z"
+date: "2025-06-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publishDate: "2023-11-14T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in the *4th Conference on Causal Learning and Reasoning (CLeaR*"
+publication: "To appear in the *4th Conference on Causal Learning and Reasoning (CLeaR)*"
 publication_short: "To appear in *CLeaR 2025*"
 
-abstract: We explore what we call "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is common among specialized human experts or specific focused studies. We lean on well-studied paradoxes (Simpson's and Condorcet) to illustrate the more general difficulties of causal inference in omitted label contexts. Contrary to the fundamental principles on which much of causal inference is built, we show that "correct" adjustments sometimes require non-exchangeable treatment and control groups. These pitfalls lead us to the study networks of conclusions drawn from different contexts and the structures the form, proving an interesting connection between these networks and social choice theory.
+abstract: We explore "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is standard among specialized human experts or specific focused studies. By studying Simpson's paradox, we observe that ``correct'' adjustments sometimes require non-exchangeable treatment and control groups. A generalization of Simpson's paradox leads us to study networks of conclusions drawn from different contexts, within which a paradox of nontransitivity arises. We prove that the space of possible nontransitive structures in these networks exactly corresponds to structures that form from aggregating ranked-choice votes.
 
 # Summary. An optional shortened abstract.
 summary: Domain expertise bias creates paradoxes in causality and covariate shift methods. We show these are the same as paradoxes in social choice theory.
