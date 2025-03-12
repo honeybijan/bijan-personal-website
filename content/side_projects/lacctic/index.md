@@ -9,7 +9,7 @@ external_link:
 
 [LACCTiC.com](www.lacctic.com) is a website that I developed in 2021 to convert cross country performances from varying course difficulties to their track 5k equivalents. The results are used to provide sophisticated rankings and race simulations. The aglorithm has evoled over time and has many small tweaks, but I will provide a short summary of the ideas here.
 
-The main idea behind LACCTiC is to look at how runner's finish times change across different courses. This won't be informative for a single runner, who may have had a good and bad race. However, the *average* across many runners should give an idea of the course's relative difficulty since the same number of people will have had good races and bad races.
+The main idea behind LACCTiC is to look at how finish times change across different courses. This won't be informative for a single runner, who may have had a good and bad race. However, the *average* across many runners should give an idea of the course's relative difficulty since the same number of people will have had good races and bad races.
 
 Consider $n$ runners who run $m$ races. Notice that if we had runner fitness estimates, then we could use those estimates to estimate course adjustments. Similarly, if we had course adjustments, we could use those course adjustments to estimate runner fitness. We have neither, but we can start with a guess on some runners' fitnesses using their 5k PRs, then switch back and forth finding course adjustments and estimating fitnesses until we converge. This is sometimes called an "expectation maximization" approach. Now, lets go into the details...
 
