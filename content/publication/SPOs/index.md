@@ -15,13 +15,13 @@ publishDate: "2024-05-28T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in the *28th International Conference on Artificial Intelligence and Statistics (AISTATS)*"
-publication_short: "To appear in *AISTATS 2025*"
+publication: "The *28th International Conference on Artificial Intelligence and Statistics (AISTATS)*"
+publication_short: "*AISTATS 2025*"
 
-abstract: Heterogeneous data from multiple populations, sub-groups, or sources can be represented as a "mixture model" with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at different levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This is distinct from previous notions, such as grouping by similar covariate values (e.g., clustering) or similar correlations between covariates (e.g., Gaussian mixture models). To solve the problem, we "synthetically sample" from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these "causal mixtures" fit in with more classical notions, we develop a hierarchy of mixture identifiability.
+abstract: Heterogeneous data from multiple populations, sub-groups, or sources can be represented as a "mixture model" with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at different levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This is distinct from previous notions, such as grouping by similar covariate values (e.g., clustering) or similar correlations between covariates (e.g., Gaussian mixture models). To solve the problem, we "synthetically sample" from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these ``causal mixtures'' fit in with more classical notions, we develop a hierarchy of mixture identifiability.
 
 # Summary. An optional shortened abstract.
 summary: We show how to find mixture components relative to a causal response.
@@ -35,10 +35,10 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/abs/2405.19225'
+url_pdf: 'https://openreview.net/attachment?id=J1CJaSnmKg&name=pdf'
 url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/spos/AISTATS2025poster.pdf'
 url_project: ''
 url_slides: 'presentations/spo_bu3'
 url_source: ''

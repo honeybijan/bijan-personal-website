@@ -1,5 +1,6 @@
 ---
-title: "Omitted Labels in Causality: A Study of Paradoxes"
+title: "Omitted Labels Induce Nontransitive
+Paradoxes in Causality"
 authors:
 - Admin
 - Siddharth Jain
@@ -16,13 +17,13 @@ publishDate: "2023-11-14T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in the *4th Conference on Causal Learning and Reasoning (CLeaR)*"
-publication_short: "To appear in *CLeaR 2025*"
+publication: "*4th Conference on Causal Learning and Reasoning (CLeaR)*"
+publication_short: "*CLeaR 2025*"
 
-abstract: We explore "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is standard among specialized human experts or specific focused studies. By studying Simpson's paradox, we observe that ``correct'' adjustments sometimes require non-exchangeable treatment and control groups. A generalization of Simpson's paradox leads us to study networks of conclusions drawn from different contexts, within which a paradox of nontransitivity arises. We prove that the space of possible nontransitive structures in these networks exactly corresponds to structures that form from aggregating ranked-choice votes.
+abstract: We explore "omitted label contexts," in which training data is limited to a subset of the possible labels. This setting is standard among specialized human experts or specific, focused studies. By studying Simpson's paradox, we observe that "correct" adjustments sometimes require non-exchangeable treatment and control groups. A generalization of Simpson's paradox leads us to study networks of conclusions drawn from different contexts, within which a paradox of nontransitivity arises. We prove that the space of possible nontransitive structures in these networks exactly corresponds to structures that form from aggregating ranked-choice votes.
 
 # Summary. An optional shortened abstract.
 summary: Domain expertise bias creates paradoxes in causality and covariate shift methods. We show these are the same as paradoxes in social choice theory.
@@ -39,7 +40,7 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2311.06840'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/reweighting_paradoxes/CLeaR2025poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
