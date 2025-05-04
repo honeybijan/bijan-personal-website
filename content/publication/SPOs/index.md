@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://openreview.net/attachment?id=J1CJaSnmKg&name=pdf'
+url_pdf: 'https://proceedings.mlr.press/v258/mazaheri25a.html'
 url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
 url_poster: 'publication/spos/AISTATS2025poster.pdf'
