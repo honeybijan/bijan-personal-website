@@ -16,7 +16,7 @@ Consider $n$ runners who run $m$ races. Notice that if we had runner fitness est
 First, suppose you knew everyone's average 5k finesses, e.g., $f_1, f_2, \ldots, f_n$. If you did, then you could go to the $j$th race and compare everyone's times $t^{(j)}_1, t^{(j)}_2, ..., t^{(j)}_n$ (here $t^{(j)}_i$ is runner $i$'s time for race $j$). We can now find some $\alpha_j$ that describes the ratio between times in race $j$ and people's general fitnesses. That is, we want $\alpha_j t_1, \alpha t_2, \ldots, \alpha_j t_n$ to be close to $f_1, f_2, \ldots, f_n$. Let's use an average, so
 
 $$
- \alpha_j = \frac{\sum_i f_i}{\sum_i t_i}.
+ \alpha_j = \frac{1}{n} \sum_i \frac{f_i}{t_i}.
 $$
 
 We will call $\alpha_j$ the "adjustment" for the course because multiplying a runner's time on course $j$ times $\alpha_j$ approximately gives us the 5k equivalent. Slower courses will have slower times, meaning $\alpha_j$ will be smaller.
@@ -24,7 +24,7 @@ We will call $\alpha_j$ the "adjustment" for the course because multiplying a ru
 Now, suppose we knew all of the course adjustments ($\alpha_1, \alpha_2, \ldots, \alpha_m$). We could use all of these course adjustments to give every runner a list of adjusted times, e.g., runner $i$ would now have adjusted times $\alpha_1 t^{(1)}_i, \alpha_2 t^{(2)}_i, \ldots, \alpha_m t^{(m)}_i$. We can average these times to get an estimate of each runner's fitness:
 
 $$
- f_i = \sum_{j=1}^m  t^{(j)}_i / m.
+ f_i = \sum_{j=1}^m  \alpha_j t^{(j)}_i / m.
 $$
 
 We alternate between these two computations. Calculating the $\alpha_j$s refines estimates of course adjustments, which can then be used to get better estimates for runner fitnesses ($f_i$s), which can then be used to further refine course adjustments, and so on.
