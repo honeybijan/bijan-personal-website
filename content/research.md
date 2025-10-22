@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Research
-      text: The age of big data promises to revolutionize science and engineering, but it suffers from two critical complications. First, big data introduces heterogeneity from diverse populations that can obscure causality within spurious correlations. Second, rich data gives only a fine-grained picture of the latent abstractions we use to understand the world. I study these issues through the framework of causal inference, which seeks to replace controlled experiments with mathematics on observational data. I'm especially interested in using causal mathematics to answer questions that cannot be addressed by experimentation alone.
+      text: I use tools from theoretical computer science and statistics—including sample complexity, mixture models, and causal inference—to answer questions such as: How can we integrate causal knowledge into statistical models? How can we effectively navigate tradeoffs between data diversity and causality? How can we detect AI-generated or adversarially manipulated data? And, how can we quantify human performance in highly variable environments?
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The *28th International Conference on Artificial Intelligence and Statistics (AISTATS)*"
-publication_short: "*AISTATS 2025*"
+publication_short: "In *AISTATS 2025*"
 
 abstract: Heterogeneous data from multiple populations, sub-groups, or sources can be represented as a "mixture model" with a single latent class influencing all of the observed covariates. Heterogeneity can be resolved at different levels by grouping populations according to different notions of similarity. This paper proposes grouping with respect to the causal response of an intervention or perturbation on the system. This is distinct from previous notions, such as grouping by similar covariate values (e.g., clustering) or similar correlations between covariates (e.g., Gaussian mixture models). To solve the problem, we "synthetically sample" from a counterfactual distribution using higher-order multi-linear moments of the observable data. To understand how these ``causal mixtures'' fit in with more classical notions, we develop a hierarchy of mixture identifiability.
 
