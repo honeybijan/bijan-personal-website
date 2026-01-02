@@ -14,7 +14,7 @@ sections:
       text: |2-
         <dif style = "margin: 10px;">
           <p style="text-align: justify;"> 
-            I study issues that arise when synthesizing information from multiple datasets, modalities, and batches into machine learning and AI models. Topics include causality, distribution shift, decision fusion, and mixture models. I am working to apply these ideas to new computational challenges in defense and biology. I am recruiting postdocs and Ph.D. students.
+            I am interested in information-theoretical questions pertaining to causality, experimental design, and artificial intelligence. I am working to apply these ideas to new computational challenges in defense and biology. I am recruiting postdocs and Ph.D. students.
           </p>
           <p style="text-align: justify;"> 
             I am also an internationally competitive distance runner and enjoy applying my research to sports analytics. I am the developer of <a href="https://www.lacctic.com/">LACCTiC</a>, which is used by coaches and athletes across the NCAA to compare performances over varying conditions and terrain.
