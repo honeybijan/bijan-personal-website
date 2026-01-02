@@ -15,7 +15,7 @@ main:
     identifier: side projects
     url: 'side'
     weight: 30
-  - name: Education/Work
+  - name: Experience
     url: 'education_experience'
     weight: 50
   - name: Running
