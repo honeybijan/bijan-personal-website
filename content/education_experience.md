@@ -18,8 +18,6 @@ sections:
           company_logo: org-thayer
           location: Hanover, NH
           date_start: '2025-01-01'
-          description: |2-
-              Working on batch effects and causality.
         - title: Eric and Wendy Schmidt Postdoctoral Associate
           company: Broad Intitute of MIT and Harvard
           company_url: 'https://www.ericandwendyschmidtcenter.org/'
@@ -28,7 +26,7 @@ sections:
           date_start: '2023-10-01'
           date_end: '2024-12-31'
           description: |2-
-              Working on batch effects and causality.
+              Postdoctoral advisor: Prof. Caroline Uhler.
         - title: PhD in Computing and Mathematical Sciences
           company: California Institute of Technology (Caltech)
           company_url: ''
@@ -37,7 +35,7 @@ sections:
           date_start: '2017-09-01'
           date_end: '2023-08-15'
           description: |2-
-              Worked with advisors Shuki Bruck and Leonard Schulman. 
+              Ph.D. Advisors: Prof. Shuki Bruck and Prof. Leonard Schulman. 
               Funded by an NSF Graduate Research Fellowship and an Amazon AI4Science fellowship.
         - title: Herchel Smith Fellowship
           company: University of Cambridge
@@ -46,7 +44,6 @@ sections:
           location: Cambridge, UK
           date_start: '2016-09-01'
           date_end: '2017-06-01'
-          description: Part IB Maths with supplemental Part IA and II classes.
         - title: B.A. in Physics and Computer Science
           company: Williams College
           company_url: ''
@@ -54,9 +51,6 @@ sections:
           location: Williamstown, MA
           date_start: '2012-09-01'
           date_end: '2016-06-01'
-          description: |2-
-              Highest Honors in Physics, Magna Cum Laude, Phi Beta Kappa, Sigma Xi. 
-              Captain of cross country and track teams.
     design:
       columns: '2'
 
