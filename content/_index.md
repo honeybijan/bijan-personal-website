@@ -22,7 +22,7 @@ sections:
           <div style="text-align: center;">
             {{< button relref="/research" >}}Research{{< /button >}}
             {{< button relref="/side" >}}Side Projects{{< /button >}}
-            {{< button relref="/education_experience" >}}Education/Work{{< /button >}}
+            {{< button relref="/education_experience" >}}Experience{{< /button >}}
             {{< button relref="/running" >}}Running{{< /button >}}
           </div>
           <div style="text-align: center;">
