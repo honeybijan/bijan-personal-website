@@ -40,7 +40,7 @@ url_code: 'https://github.com/csquires/synthetic-potential-outcomes'
 url_dataset: ''
 url_poster: 'publication/spos/AISTATS2025poster.pdf'
 url_project: ''
-url_slides: 'presentations/spo_bu3'
+url_slides: 'presentations/spo'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?app=desktop&si=rckWo1PphQC5QqoC&v=hLr7KmUUvJ4&feature=youtu.be'
 
